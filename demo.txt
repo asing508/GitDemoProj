@@ -1,3 +1,4 @@
 Line A
-Line B (edited in feature-1)
+Line B (feature-1 & fix-typo merged)
 Feature-1: change 1
+

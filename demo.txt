@@ -1,2 +1,2 @@
 Line A
-Line B
+Line B (edited in fix-typo)
